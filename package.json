@@ -1,0 +1,23 @@
+{
+  "name": "photo-project",
+  "version": "0.0.0",
+  "description": "Application for viewing instagram photos.",
+  "main": "web.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joannkimmm/photo-project"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joann Kim",
+  "license": "MIT",
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.4.8",
+    "mongodb": ">= 0.9.6-7"
+  },
+  "engines": {
+    "node": "0.10.x"
+  } 
+}
